@@ -1,0 +1,22 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "pet prj vanilla js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimishe/book-app-vjs.git"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Ildar Karimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karimishe/book-app-vjs/issues"
+  },
+  "homepage": "https://github.com/karimishe/book-app-vjs#readme"
+}
